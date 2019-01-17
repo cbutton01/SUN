@@ -4,7 +4,8 @@
 }
 
 Body {
-    background-color: chocolate;
+    background-color: #99492c;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
