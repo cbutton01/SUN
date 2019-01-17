@@ -10,6 +10,8 @@ Body {
 }
 
 #header {
+
+    font-family: 'Walter Turncoat', cursive;
     background-color: black;
     color: white;
     text-decoration: underline;
@@ -32,6 +34,7 @@ Body {
 }
 
 .card {
+    padding: 1em;
     background-color: azure;
     width: 25%;
     border: 1px solid black;
