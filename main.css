@@ -2,7 +2,7 @@ Body {
     background-color: chocolate;
 }
 
-.header {
+#header {
     background-color: black;
     color: white;
     text-decoration: underline;
