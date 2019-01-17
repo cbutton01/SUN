@@ -25,3 +25,10 @@ Body {
     display: flex;
     justify-content: space-around;
 }
+
+.card {
+    background-color: azure;
+    width: 25%;
+    border: 1px solid black;
+    box-shadow: #222 2px 2px 2px;
+}
