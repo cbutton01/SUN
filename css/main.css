@@ -26,6 +26,10 @@ Body {
     justify-content: space-around;
 }
 
+.container {
+    padding: 50px;
+}
+
 .card {
     background-color: azure;
     width: 25%;
