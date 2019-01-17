@@ -2,7 +2,7 @@
 
 ## Students
 
-Click <a link="https://cbutton01.github.io/SUN/">Here</a> to access the stuudent resources website
+Click [Here](https://cbutton01.github.io/SUN/) to access the stuudent resources website
 
 ## What will we do here?
 
