@@ -31,6 +31,7 @@ Body {
 
 .container {
     padding: 50px;
+    display: flex;
 }
 
 .card {
@@ -39,4 +40,5 @@ Body {
     width: 25%;
     border: 1px solid black;
     box-shadow: #222 2px 2px 2px;
+    margin-right: 5%;
 }
