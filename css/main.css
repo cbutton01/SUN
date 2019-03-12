@@ -36,13 +36,17 @@ ul {
 .container {
     padding: 50px;
     display: flex;
+    flex-direction: column;
 }
 
 .card {
+    margin-top: 2em;
     padding: 1em;
     background-color: azure;
-    width: 25%;
+    min-width: 25%;
+    max-width: 75%;
     border: 1px solid black;
     box-shadow: #222 2px 2px 2px;
     margin-right: 5%;
+    margin-left: 3em;
 }
